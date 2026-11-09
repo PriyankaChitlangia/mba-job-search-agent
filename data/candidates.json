@@ -1,0 +1,187 @@
+[
+  {
+    "id": "CAND-01",
+    "name": "Aarav Sharma",
+    "degree": "MBA in Strategy & General Management, BITS Pilani (Class of 2026)",
+    "undergraduate": "B.Tech in Computer Science, NIT Surathkal (GPA 8.6/10)",
+    "target_roles": ["Management Consulting", "Corporate Strategy Associate", "Business Design"],
+    "summary": "MBA candidate with 2.5 years of pre-MBA technology consulting experience at Cognizant. Strong background in structured business problem solving, market sizing, financial modeling, and client stakeholder management. Seeking management consulting associate roles at top global firms.",
+    "years_experience": 2.5,
+    "skills_hard": [
+      "Structured Problem Solving",
+      "Financial Modeling",
+      "Market Sizing",
+      "Quantitative Analysis",
+      "Python",
+      "Advanced Excel",
+      "Tableau",
+      "Cost-Benefit Analysis"
+    ],
+    "skills_soft": [
+      "Executive Communication",
+      "Client Management",
+      "Hypothesis-Driven Analysis",
+      "Storyboarding",
+      "Cross-Functional Leadership"
+    ],
+    "certifications": [
+      "McKinsey Forward Program Badge",
+      "Tableau Desktop Certified Specialist",
+      "Wall Street Prep Financial Modeling"
+    ],
+    "coursework": [
+      "Strategic Management",
+      "Advanced Corporate Finance",
+      "Business Analytics & Data Storytelling",
+      "Operations Strategy",
+      "Mergers & Acquisitions"
+    ],
+    "projects": [
+      "Consulting Capstone: Designed an omnichannel market entry strategy for a European luxury apparel brand entering Tier-1 Indian cities, estimating a $45M addressable market over 3 years.",
+      "Live Industry Project: Conducted cost-optimization diagnostics for a mid-sized healthcare provider, identifying 14% potential SG&A expense reductions."
+    ],
+    "achievements": [
+      "National Finalist, BITS Pilani Case Championship 2025 (Top 5 of 320 teams)",
+      "Vice President, Management Consulting Club, BITS Pilani"
+    ]
+  },
+  {
+    "id": "CAND-02",
+    "name": "Sneha Mukherjee",
+    "degree": "MBA in Technology & Product Management, BITS Pilani (Class of 2026)",
+    "undergraduate": "B.E. in Information Technology, Jadavpur University (GPA 8.9/10)",
+    "target_roles": ["Product Manager", "Technical Product Manager", "Product Operations Lead"],
+    "summary": "Engineering + MBA graduate with 3 years of prior software engineering experience at Infosys. Proven track record in product lifecycle management, drafting detailed PRDs, designing SQL-driven product telemetry, and executing A/B testing sprints. Passionate about AI-driven enterprise and consumer SaaS.",
+    "years_experience": 3.0,
+    "skills_hard": [
+      "Product Lifecycle Management (PLM)",
+      "PRD & User Story Writing",
+      "Data Analytics & A/B Testing",
+      "SQL",
+      "Figma Wireframing",
+      "Python",
+      "Azure Cloud",
+      "Feature Prioritization (RICE/MoSCoW)"
+    ],
+    "skills_soft": [
+      "Customer Empathy",
+      "User Research",
+      "Cross-Functional Collaboration",
+      "Agile/Scrum Leadership",
+      "Technical Roadmapping"
+    ],
+    "certifications": [
+      "Certified Scrum Product Owner (CSPO)",
+      "Reforge Product Strategy Certificate",
+      "Google Data Analytics Professional Certificate"
+    ],
+    "coursework": [
+      "Digital Product Management",
+      "Design Thinking & Innovation",
+      "Database Systems & Big Data",
+      "Marketing Technology & Growth",
+      "Platform Economics"
+    ],
+    "projects": [
+      "Product Capstone: Designed an end-to-end B2B SaaS onboarding flow reducing customer time-to-value (TTV) by 32% using Figma prototypes and RICE prioritization.",
+      "A/B Testing Experiment: Analyzed 250,000 anonymized e-commerce checkout sessions using SQL to identify drop-off drivers, proposing 3 UI micro-optimizations that improved cart conversion by 4.2%."
+    ],
+    "achievements": [
+      "Winner, Productathon National Hackathon 2025 (Enterprise SaaS Track)",
+      "Co-Convenor, BITS Pilani Product Management Guild"
+    ]
+  },
+  {
+    "id": "CAND-03",
+    "name": "Rohan Deshmukh",
+    "degree": "MBA in Finance, BITS Pilani (Class of 2026)",
+    "undergraduate": "B.Com (Honours) in Accounting & Finance, St. Xavier's College (GPA 9.1/10)",
+    "target_roles": ["Investment Banking Associate", "Strategic Finance Manager", "Corporate Development"],
+    "summary": "CFA Level II candidate with 2 years of investment research and equity valuation experience at an institutional advisory boutique. Proficient in 3-statement financial modeling, DCF valuation, LBO structuring, and investor pitch preparation. Strong command over financial statement forensics.",
+    "years_experience": 2.0,
+    "skills_hard": [
+      "Discounted Cash Flow (DCF) Valuation",
+      "LBO & Merger Modeling",
+      "3-Statement Financial Modeling",
+      "Financial Statement Analysis",
+      "Bloomberg Terminal",
+      "Advanced Excel (VBA/Macros)",
+      "PowerBI",
+      "Budgeting & Variance Analysis"
+    ],
+    "skills_soft": [
+      "Pitchbook Preparation",
+      "Transaction Structuring",
+      "Client Advisory",
+      "Due Diligence",
+      "Quantitative Rigor"
+    ],
+    "certifications": [
+      "CFA Level II Candidate (Passed Level I with >90th percentile)",
+      "NSE Certified Market Professional (NCMP Level 3)",
+      "Corporate Finance Institute (CFI) - Financial Modeling & Valuation Analyst (FMVA)"
+    ],
+    "coursework": [
+      "Security Analysis & Portfolio Management",
+      "Valuation & Financial Modeling",
+      "Fixed Income Markets & Derivatives",
+      "International Finance",
+      "Corporate Governance & Ethics"
+    ],
+    "projects": [
+      "Equity Research Initiation: Authored a comprehensive 35-page initiation report on Indian FinTech ecosystems with a detailed DCF and peer multiple valuation matrix.",
+      "Private Equity Case Simulation: Built an end-to-end LBO model for an industrial automation buyout, projecting IRR sensitivity across debt tranches and exit multiples."
+    ],
+    "achievements": [
+      "1st Runner-Up, National CFA Institute Research Challenge Regional Finals 2025",
+      "Head of Research, Student Investment Fund ($100k simulated portfolio), BITS Pilani"
+    ]
+  },
+  {
+    "id": "CAND-04",
+    "name": "Pooja Varma",
+    "degree": "MBA in Marketing & Brand Strategy, BITS Pilani (Class of 2026)",
+    "undergraduate": "Bachelor of Management Studies (BMS) in Marketing, NMIMS Mumbai (GPA 8.8/10)",
+    "target_roles": ["Brand Manager", "Category Manager", "Product Lead - D2C", "Product Marketing Manager"],
+    "summary": "MBA marketing candidate with 2 years of pre-MBA digital marketing and brand communications experience at Ogilvy. Experienced in brand positioning, consumer journey mapping, performance marketing (ROAS), and agency management. Seeking FMCG brand leadership or quick-commerce category management roles.",
+    "years_experience": 2.0,
+    "skills_hard": [
+      "Brand Equity & Positioning",
+      "Consumer Insight Mining",
+      "Performance Marketing & Paid Ads",
+      "Go-To-Market (GTM) Strategy",
+      "Customer Lifetime Value (LTV) Optimization",
+      "Google Analytics / GA4",
+      "Category Merchandising",
+      "Media Mix Modeling (MMM)"
+    ],
+    "skills_soft": [
+      "Agency Management & Creative Briefing",
+      "Consumer Journey Mapping",
+      "Cross-Functional Team Leadership",
+      "Creative Storytelling",
+      "Vendor Negotiation"
+    ],
+    "certifications": [
+      "Meta Certified Digital Marketing Associate",
+      "Google Ads Search & Video Certified",
+      "HubSpot Inbound Marketing Professional"
+    ],
+    "coursework": [
+      "Brand Management & Consumer Psychology",
+      "Integrated Marketing Communications",
+      "Retail & Omni-channel Marketing",
+      "Marketing Analytics & Customer Insights",
+      "Services Marketing & CRM"
+    ],
+    "projects": [
+      "Live Brand Launch Campaign: Developed an integrated brand awareness launch strategy for an organic snacking brand, combining influencer seeding with hyper-local Meta ads to achieve a 3.8x ROAS.",
+      "Consumer Behavior Field Study: Conducted qualitative focus groups and quantitative survey analysis with 450 Gen-Z consumers to map brand loyalty in the beauty personal care vertical."
+    ],
+    "achievements": [
+      "Winner, HUL L.I.M.E. Case Competition Campus Round 2025",
+      "Secretary, Marketing Club (Genesis), BITS Pilani"
+    ]
+  }
+]
+
